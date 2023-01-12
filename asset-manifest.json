@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ContadorPage/static/css/main.8b0da253.css",
+    "main.js": "/ContadorPage/static/js/main.7a30bc1e.js",
+    "static/media/Logotipo Original (PNG).png": "/ContadorPage/static/media/Logotipo Original (PNG).a5c71129ccc1ea384c23.png",
+    "index.html": "/ContadorPage/index.html",
+    "main.8b0da253.css.map": "/ContadorPage/static/css/main.8b0da253.css.map",
+    "main.7a30bc1e.js.map": "/ContadorPage/static/js/main.7a30bc1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0da253.css",
+    "static/js/main.7a30bc1e.js"
+  ]
+}
